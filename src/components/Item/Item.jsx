@@ -1,4 +1,4 @@
-//1. Importamos el hook de Ciclo de Vida
+//COMPONENTE ITEM
 import React, { useState} from "react";
 import Button from "../Button/Button";
 import { FaHeart } from "react-icons/fa";
