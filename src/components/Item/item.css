@@ -1,7 +1,6 @@
 .card{
   position: relative;
   margin: 10px 15px;
-  min-height: 520px;
   width: 280px;
   height: 100%;
   border-radius: 4px;
@@ -54,19 +53,11 @@
 
 .card-favicon.favorite{
   display: block;
-  background-color: rgb(223, 117, 84);
+  background-color: rgb(216, 29, 29);
   color: white;
-}
-
-small{
-  color: #8c8c8e;
 }
 
 .priceTag{
   color: #444444;
   font-weight: bold;
-}
-
-.offerTag{
-  color: #21b276
 }

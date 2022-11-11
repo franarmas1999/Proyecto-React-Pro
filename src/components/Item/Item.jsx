@@ -27,7 +27,7 @@ function Item({ product }) {
         <p>{product.model}</p>
         <h4 className="priceTag">$ {product.price}</h4>
       </div>
-      <Button>Ver más!</Button>
+      <Button>COMPRAR</Button>
     </div>
   );
 }
